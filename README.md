@@ -2,7 +2,7 @@
 Date created: 19 July 2019 
 Purpose: For studying the production characteristics of shouted and normal speech
 Dataset: SNE-Speech (Shouted Normal EGG Speech) Corpus 
-Collected at: Guwahati, India
+Collected at: Signal Processing lab, Indian Institute of Technology Guwahati, India
 Author: Shikha Baghel (shikha.baghel@iitg.ac.in)
 
 Details of data:
@@ -18,5 +18,12 @@ Technical Details:
 
 
 Information regarding proprietary rights:
-This dataset can be downloaded and used only for research /academic purposes. It is expected that as a professional courtesy, credit would be given to the author of SNE-Speech corpus if this dataset is used for benchmarking any upcoming research work. 
+This database is a property of Signal processing lab, IIT Guwahati. However, for research purposes only, this database can be downloaded by anyone at free of cost. This dataset can be downloaded and used only for research /academic purposes. It is expected that as a professional courtesy, credit would be given to the author of SNE-Speech corpus if this dataset is used for benchmarking any upcoming research work. 
+
+Cite the following work:
+Exploration of excitation source information for shouted and normal speech classification.
+https://asa.scitation.org/doi/full/10.1121/10.0000757
+
+
+
 
