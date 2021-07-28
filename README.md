@@ -20,9 +20,12 @@ Technical Details:
 Information regarding proprietary rights:
 This database is a property of Signal processing lab, IIT Guwahati. However, for research purposes only, this database can be downloaded by anyone at free of cost. This dataset can be downloaded and used only for research /academic purposes. It is expected that as a professional courtesy, credit would be given to the author of SNE-Speech corpus if this dataset is used for benchmarking any upcoming research work. 
 
-Cite the following work:
+**Cite the following work:**
 Exploration of excitation source information for shouted and normal speech classification.
 https://asa.scitation.org/doi/full/10.1121/10.0000757
+
+**How to cite:**
+Shikha Baghel, S. R. Mahadeva Prasanna, and Prithwijit Guha , "Exploration of excitation source information for shouted and normal speech classification", The Journal of the Acoustical Society of America 147, 1250-1261 (2020) https://doi.org/10.1121/10.0000757
 
 
 
